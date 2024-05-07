@@ -1,0 +1,10 @@
+/mnt/data/xgs/code/end/build/end/CMakeFiles/install/strip.dir
+/mnt/data/xgs/code/end/build/end/CMakeFiles/install.dir
+/mnt/data/xgs/code/end/build/end/CMakeFiles/list_install_components.dir
+/mnt/data/xgs/code/end/build/end/CMakeFiles/uninstall.dir
+/mnt/data/xgs/code/end/build/end/CMakeFiles/end.dir
+/mnt/data/xgs/code/end/build/end/CMakeFiles/install/local.dir
+/mnt/data/xgs/code/end/build/end/CMakeFiles/test.dir
+/mnt/data/xgs/code/end/build/end/CMakeFiles/edit_cache.dir
+/mnt/data/xgs/code/end/build/end/CMakeFiles/end_uninstall.dir
+/mnt/data/xgs/code/end/build/end/CMakeFiles/rebuild_cache.dir
