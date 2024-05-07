@@ -1,0 +1,6 @@
+Invoking command in '/mnt/data/xgs/code/end/build/end': CMAKE_PREFIX_PATH=/opt/ros/foxy CONDA_PROMPT_MODIFIER=(base) _=/usr/bin/env /usr/local/bin/cmake /mnt/data/xgs/code/end -DCMAKE_INSTALL_PREFIX=/mnt/data/xgs/code/end/install/end
+Invoked command in '/mnt/data/xgs/code/end/build/end' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy CONDA_PROMPT_MODIFIER=(base) _=/usr/bin/env /usr/local/bin/cmake /mnt/data/xgs/code/end -DCMAKE_INSTALL_PREFIX=/mnt/data/xgs/code/end/install/end
+Invoking command in '/mnt/data/xgs/code/end/build/end': CMAKE_PREFIX_PATH=/opt/ros/foxy CONDA_PROMPT_MODIFIER=(base) _=/usr/bin/env /usr/local/bin/cmake --build /mnt/data/xgs/code/end/build/end -- -j8 -l8
+Invoked command in '/mnt/data/xgs/code/end/build/end' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy CONDA_PROMPT_MODIFIER=(base) _=/usr/bin/env /usr/local/bin/cmake --build /mnt/data/xgs/code/end/build/end -- -j8 -l8
+Invoking command in '/mnt/data/xgs/code/end/build/end': CMAKE_PREFIX_PATH=/opt/ros/foxy CONDA_PROMPT_MODIFIER=(base) _=/usr/bin/env /usr/local/bin/cmake --install /mnt/data/xgs/code/end/build/end
+Invoked command in '/mnt/data/xgs/code/end/build/end' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy CONDA_PROMPT_MODIFIER=(base) _=/usr/bin/env /usr/local/bin/cmake --install /mnt/data/xgs/code/end/build/end
