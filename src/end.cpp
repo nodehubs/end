@@ -18,7 +18,6 @@ public:
             std::cout<<"start"<<std::endl;
             std::cout<<"============="<<std::endl;
             std::cout<<"============="<<std::endl;
-            std::cout<<"============="<<std::endl;
             std::cout<<"finish"<<std::endl;
 
         };
